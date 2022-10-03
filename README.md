@@ -1,4 +1,4 @@
-# Parsimonious FMM mixed data
+# Composite likelihood methods for parsimonious model-based clustering of mixed-type data
 
 Title: Composite likelihood methods for parsimonious model-based clustering of mixed-type data
 Author: Monia Ranalli and Roberto Rocci (Sapienza University, Rome)
