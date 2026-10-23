@@ -15,3 +15,7 @@ In summary models 1-8 are the following ones: CCC, CCU, CUC, CUU, UCC, UCU, UUC,
 Models, 9-12 are: (SC)CC, (SC)CU, (SC)UC, (SC)UU.
 
 The files shall be run in MatLab.
+
+## License
+
+MIT (see `LICENSE`), except for third-party files, which keep their original authorship: `bvnlr.m` and `bvnP.m` (Alan Genz) and `cov2corr.m` (Kevin Sheppard).
